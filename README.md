@@ -1,10 +1,10 @@
 The aviation accident database contains information from 1962 and later about civil aviation accidents
 
-objectives
-to clean up the data
-to find out the number of accidents that have happened
-to find out how many passangers were injured or killed
-to find out the cause of the crashes
-what is the majour contribution to accidents (pilot error or other)
-airline with most accidents
-country with most accidents
+** objectives**
+* to clean up the data
+* to find out the number of accidents that have happened
+* to find out how many passangers were injured or killed
+* to find out the cause of the crashes
+* What is the major contribution to accidents (pilot error or other)
+* airline with the most accidents
+* country with the most accidents
