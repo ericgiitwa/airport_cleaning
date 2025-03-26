@@ -8,3 +8,5 @@ The aviation accident database contains information from 1962 and later about ci
 * What is the major contribution to accidents (pilot error or other)
 * airline with the most accidents
 * country with the most accidents
+
+*powerpoint presentation: https://docs.google.com/presentation/d/1ytu83b6jLZPcnG6btw22G82pGBaod7TEUOXxrFlFVCs/edit?usp=sharing
