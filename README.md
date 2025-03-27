@@ -1,5 +1,9 @@
 # Aviation_Accident_Database_Project
-The aviation accident database contains information from 1962 and later about civil aviation accidents
+This presentation will explore the main reasons behind aviation accidents dating back to 1948.
+
+
+ We aim to identify patterns and causes to provide suggestions for improving the safety of air travel.
+
 
 ## objectives
 * to clean up the data
@@ -11,16 +15,24 @@ The aviation accident database contains information from 1962 and later about ci
 * country with the most accidents
 
 ## Analysis
-the data shows that there are more accidents than incidents as accidents make up of 95.6% of the crashes the data shows that majority of the accidents accur due to pilot error (due to probable cause) as weather conditions are mostly clear(VISIBLE CONDITIONS) accidents skyrocket during the landing pohase of the flight profesional airplanes and ameteur airplanes do not affect the data as it is pilot error that causes the crash.
+The data shows that 95.6% of crashes are accidents, which happen more often than incidents. Most accidents are caused by pilot error, but there are other factors too, like overconfidence, busy air traffic, distractions, runway problems, and miscommunications with traffic control. Surprisingly, many accidents happen in clear weather.
+Landing is the riskiest part of a flight because it involves a lot of factors and little time to fix mistakes. However, as technology improves, airplanes have become safer, and the number of injuries has gone down.
 
-A suggested solution is to train pilots more on landing and probably increase their mandatory flight hours on a training simulator
-Most damage occurs on the non-amateur planes,although since the majority of the dataset is made up of non-amateur planes, there isn't significant data to prove which plane is safer(less damage occurs)
 
 ## Recomendations
-* A suggested solution is to train pilots more on landing and probably increase their mandatory flight hours on a training simulator
-* To encourage more pilots and airlines to make more reports as the data is mostly left blank, which is crucial to cracking down on incidents
-  
+* Train pilots more on landing and takeoff emergency scenarios
+* Increase their mandatory flight hours on a training simulator as Prospective commercial pilots typically log at least 250 hours of 
+ flying time to earn their license
+* Optimize air traffic management systems with AI-based solutions for smoother coordination.
+* Improve communication tools between pilots and air traffic controllers.
+* Expand infrastructure to handle increasing air traffic efficiently.
+* Standardize communication protocols to reduce ambiguity.
+* Invest in reliable backup systems for uninterrupted communication.
 
+
+### Links
 * Powerpoint presentation: https://docs.google.com/presentation/d/1ytu83b6jLZPcnG6btw22G82pGBaod7TEUOXxrFlFVCs/edit?usp=sharing
+* tableau public Tableau public: [Aviation Accident Project | Tableau Public](https://public.tableau.com/app/profile/eric.giitwa/viz/AviationAccidentProject/Dashboard1)
+
 
 
